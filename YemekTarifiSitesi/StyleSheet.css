@@ -1,0 +1,11 @@
+﻿a:link {
+    text-decoration: none;
+    font-size: 14px;
+    font-family: 'Segoe UI';
+    font-style: normal;
+    transition: all 0.3s ease;
+}
+a:hover {
+    font-size: 18px;
+    color: gold;
+}
